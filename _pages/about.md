@@ -25,4 +25,4 @@ Besides, I spent 2 years at [Shenzhen Institutes of Advanced Technology, Chinese
 My research interests broadly lie in the areas of Machine Learning (**ML**), Natural Language Processing (**NLP**), and Large Language Models (**LLM**). 
 More specifically, my recent research interests mainly lie in the alignment of LLMs, especially (1) **Fewer data for alignment**, i.e. designing methods to filter out the high-quality subset from the existing dataset automatically while obtaining comparable or even higher performance; (2) **Personalized agent tuning**, i.e. designing methods to tune LLM-based agents with persona/personalization; (3) **Interpretability on LLMs**, i.e. exploring why and how LLMs work. 
 
-I am looking for research interns!
+If you are looking for a highly motivated intern with a background in computer science and a passion for advancing AI technologies, I would be thrilled to have an opportunity to chat with you!
