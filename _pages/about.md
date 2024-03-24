@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: minglii [AT] umd.edu, University of Maryland, College Park
+subtitle: minglii [AT] umd.edu
 
 profile:
   align: right
