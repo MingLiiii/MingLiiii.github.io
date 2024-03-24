@@ -15,6 +15,7 @@ latest_posts: false # includes a list of the newest posts
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
+minglii [AT] umd.edu
 
 I am a **first-year Ph.D. student** in Computer Science at the [University of Maryland](https://umd.edu/), advised by [Prof. Tianyi Zhou](https://tianyizhou.github.io/). 
 I began my academic journey in computer science with a Bachelor of Science from [Xi'an Jiaotong University](http://en.xjtu.edu.cn/) in 2020, followed by a Master of Science at [Texas A&M University](https://www.tamu.edu/index.html) advised by [Prof. Ruihong Huang](https://people.engr.tamu.edu/huangrh/index.html) in 2023. 
@@ -25,3 +26,4 @@ More specifically, my recent research interests mainly lie in the alignment of L
 
 **If you are looking for a highly motivated intern** with a background in computer science and a passion for advancing AI technologies, I would be thrilled to have an opportunity to chat with you!
 
+I am really interested in collaboration, feel free to drop me an email for any opportunity!
