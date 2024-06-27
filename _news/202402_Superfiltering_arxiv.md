@@ -1,7 +1,7 @@
 ---
 layout: post
 date: 2024-02-01
-inline: true
+inline: false
 ---
 
 One paper was put on the arXiv: [Superfiltering: Weak-to-Strong Data Filtering for Fast Instruction-Tuning](https://arxiv.org/abs/2402.00530), 
