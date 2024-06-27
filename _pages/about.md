@@ -21,7 +21,10 @@ I began my academic journey in computer science with a Bachelor of Science from 
 Besides, I spent 2 years at [Shenzhen Institutes of Advanced Technology, Chinese Academy of Science](http://english.siat.cas.cn/), advised by [Prof. Yu Qiao](https://scholar.google.com/citations?user=gFtI-8QAAAAJ) since 2019. 
 
 My research interests broadly lie in the areas of Machine Learning (**ML**), Natural Language Processing (**NLP**), and Large Language Models (**LLM**). 
-More specifically, my recent research interests mainly lie in the alignment of LLMs, especially (1) **Fewer data for alignment**, i.e. designing methods to filter out the high-quality subset from the existing dataset automatically while obtaining comparable or even higher performance; (2) **Personalized agent tuning**, i.e. designing methods to tune LLM-based agents with persona/personalization; (3) **Interpretability on LLMs**, i.e. exploring why and how LLMs work. 
+More specifically, my recent research interests mainly lie in LLMs, especially 
+(1) **Instruction Tuning for LLMs**, including **(i)** data selection ([Cherry LLM (IFD)](https://arxiv.org/abs/2308.12032), [Superfiltering](https://arxiv.org/abs/2402.00530)), **(ii)** data enhancement ([Reflection-Tuning](https://arxiv.org/abs/2310.11716), [Selective Reflection-Tuning](https://arxiv.org/abs/2402.10110)), **(iii)** data augmentation ([Mosaic-IT](https://arxiv.org/abs/2405.13326), [RuleR](https://arxiv.org/abs/2406.15938)), **(iv)** Controllability ([DEBATunE](https://arxiv.org/abs/2402.10614), [RuleR](https://arxiv.org/abs/2406.15938)), and so on.
+(2) **Finetuning for vision-LLMs**; 
+(3) **Interpretability on LLMs**. 
 
 **If you are looking for a highly motivated intern** with a background in computer science and a passion for advancing AI technologies, I would be thrilled to have an opportunity to chat with you!
 
