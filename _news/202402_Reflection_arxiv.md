@@ -1,7 +1,7 @@
 ---
 layout: post
 date: 2024-02-15
-inline: true
+inline: false
 ---
 
 One paper was put on the arXiv: [Selective Reflection-Tuning: Student-Selected Data Recycling for LLM Instruction-Tuning](https://arxiv.org/abs/2402.10110), 
