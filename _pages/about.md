@@ -26,7 +26,7 @@ More specifically, my recent research interests mainly lie in **Instruction Tuni
 **(ii) Data Enhancement** ([Reflection-Tuning](https://arxiv.org/abs/2310.11716), [Selective Reflection-Tuning](https://arxiv.org/abs/2402.10110)); 
 **(iii) Data Augmentation** ([Mosaic-IT](https://arxiv.org/abs/2405.13326), [RuleR](https://arxiv.org/abs/2406.15938)); 
 **(iv) Controllability** ([DEBATunE](https://arxiv.org/abs/2402.10614), [RuleR](https://arxiv.org/abs/2406.15938)), and so on.
-I am also interested in **Finetuning for vision-LLMs** and **Interpretability of LLMs**. 
+I am also interested in **Finetuning for vision-LLMs** and **Interpretability of LLMs** ([Layer_Gradient](https://github.com/MingLiiii/Layer_Gradient)). 
 
 **If you are looking for a highly motivated intern** with a background in computer science and a passion for advancing AI technologies, I would be thrilled to have an opportunity to chat with you!
 
