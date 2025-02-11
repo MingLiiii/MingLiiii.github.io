@@ -23,11 +23,10 @@ Besides, I spent 2 years at [Shenzhen Institutes of Advanced Technology, Chinese
 My research interests broadly lie in the areas of Machine Learning (**ML**), Natural Language Processing (**NLP**), and Large Language Models (**LLM**). 
 More specifically, my recent research interests mainly lie in **Instruction Tuning for LLMs**, including: 
 **(i) Data Selection** ([Cherry LLM (IFD)](https://arxiv.org/abs/2308.12032), [Superfiltering](https://arxiv.org/abs/2402.00530)); 
-**(ii) Data Synthesis** ([Reflection-Tuning](https://arxiv.org/abs/2310.11716), [Selective Reflection-Tuning](https://arxiv.org/abs/2402.10110)); 
-**(iii) Data Augmentation** ([Mosaic-IT](https://arxiv.org/abs/2405.13326), [RuleR](https://arxiv.org/abs/2406.15938)); 
-**(iv) Controllability** ([DEBATunE](https://arxiv.org/abs/2402.10614), [RuleR](https://arxiv.org/abs/2406.15938));
+**(ii) Data Synthesis** ([Reflection-Tuning](https://arxiv.org/abs/2310.11716), [Selective Reflection-Tuning](https://arxiv.org/abs/2402.10110)，[Mosaic-IT](https://arxiv.org/abs/2405.13326), [RuleR](https://arxiv.org/abs/2406.15938)); 
+**(iii) Controllability** ([DEBATunE](https://arxiv.org/abs/2402.10614), [RuleR](https://arxiv.org/abs/2406.15938));
 **(iv) Interpretability** ([Layer_Gradient](https://arxiv.org/abs/2410.23743)).
-I am also interested in and now exploring **Vision-LLMs Finetuning**, **RAG**, and **Agent**. 
+I am also interested in and now exploring **Vision-LLMs Finetuning**, **Agent**, **Efficiency**, and **Reasoning**. 
 
 **If you are looking for a highly motivated intern** with a background in computer science and a passion for advancing AI technologies, I would be thrilled to have an opportunity to chat with you!
 
