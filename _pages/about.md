@@ -23,7 +23,7 @@ Besides, I spent 2 years at [Shenzhen Institutes of Advanced Technology, Chinese
 My research interests broadly lie in the areas of Machine Learning (**ML**), Natural Language Processing (**NLP**), and Large Language Models (**LLM**). 
 More specifically, my recent research interests mainly lie in **Instruction Tuning for LLMs**, including: 
 **(i) Data Selection** ([Cherry LLM (IFD)](https://arxiv.org/abs/2308.12032), [Superfiltering](https://arxiv.org/abs/2402.00530)); 
-**(ii) Data Synthesis** ([Reflection-Tuning](https://arxiv.org/abs/2310.11716), [Selective Reflection-Tuning](https://arxiv.org/abs/2402.10110)，[Mosaic-IT](https://arxiv.org/abs/2405.13326), [RuleR](https://arxiv.org/abs/2406.15938)); 
+**(ii) Data Synthesis** ([Mosaic-IT](https://arxiv.org/abs/2405.13326), [Reflection-Tuning](https://arxiv.org/abs/2310.11716), [Selective Reflection-Tuning](https://arxiv.org/abs/2402.10110), [RuleR](https://arxiv.org/abs/2406.15938)); 
 **(iii) Controllability** ([DEBATunE](https://arxiv.org/abs/2402.10614), [RuleR](https://arxiv.org/abs/2406.15938));
 **(iv) Interpretability** ([Layer_Gradient](https://arxiv.org/abs/2410.23743)).
 I am also interested in and now exploring **Vision-LLMs Finetuning**, **Agent**, **Efficiency**, and **Reasoning**. 
