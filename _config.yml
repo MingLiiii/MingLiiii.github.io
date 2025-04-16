@@ -203,7 +203,9 @@ kramdown:
       start_line: 1
 
 # Includes & excludes
-include: ["_pages"]
+include:
+  - _pages
+  - assets/img/**/*.webp   # ← 新增：别把仓库里的 webp 静态文件漏掉
 exclude:
   - bin
   - CONTRIBUTING.md
@@ -341,21 +343,21 @@ external_links:
 # MAKE SURE imagemagick is installed and on your PATH before enabling imagemagick. In a terminal, run:
 #   convert -version
 imagemagick:
-  enabled: true # enables responsive images for your site (recommended, see https://github.com/alshedivat/al-folio/issues/537)
-  widths:
-    - 480
-    - 800
-    - 1400
+  enabled: true
+  verbose: true           # ← 新增：在 CI 日志里看生成详情
+  widths: [480, 800, 1400]
   input_directories:
     - assets/img/
-  input_formats:
+  input_formats:          # ← 新增 .webp，原图也可用 webp
     - ".jpg"
     - ".jpeg"
     - ".png"
     - ".tiff"
     - ".gif"
+    - ".webp"
   output_formats:
     webp: "-quality 85"
+    original: ""          # ← 可选：同时保留原格式
 
 # -----------------------------------------------------------------------------
 # Optional Features
