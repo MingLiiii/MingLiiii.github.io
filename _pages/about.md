@@ -29,7 +29,7 @@ More specifically, my recent research interests mainly lie in **Post-training fo
 **(iii) Controllability** ([DEBATunE](https://arxiv.org/abs/2402.10614), [RuleR](https://arxiv.org/abs/2406.15938)); <br>
 **(iv) Interpretability** ([Layer_Gradient](https://arxiv.org/abs/2410.23743)); <br>
 **(v) Reasoning** ([MiP-Overthinking](https://arxiv.org/abs/2504.06514), [Gradient_Unified](https://arxiv.org/abs/2504.10766)). <br>
-I am also interested in and now exploring **Vision-LLMs** ([TRIG](https://arxiv.org/abs/2504.04974), [ColorBench](https://arxiv.org/abs/2504.10514)), **Agent** ([ATLaS](https://arxiv.org/abs/2503.02197)), and **Reinforcement Learning**. 
+I am also interested in and now exploring **Vision-LLMs** ([TRIG](https://arxiv.org/abs/2504.04974), [ColorBench](https://arxiv.org/abs/2504.10514)), **Agent** ([ATLaS](https://arxiv.org/abs/2503.02197)), and **RL**. 
 
 
 I am really interested in collaboration, feel free to drop me an email for any opportunity!
