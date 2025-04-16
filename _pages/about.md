@@ -20,6 +20,8 @@ I am a **second-year Ph.D. student** in Computer Science at the [University of M
 I began my academic journey in computer science with a Bachelor of Science from [Xi'an Jiaotong University](http://en.xjtu.edu.cn/) in 2020, followed by a Master of Science at [Texas A&M University](https://www.tamu.edu/index.html) advised by [Prof. Ruihong Huang](https://people.engr.tamu.edu/huangrh/index.html) in 2023. 
 Besides, I spent 2 years at [Shenzhen Institutes of Advanced Technology, Chinese Academy of Science](http://english.siat.cas.cn/), advised by [Prof. Yu Qiao](https://scholar.google.com/citations?user=gFtI-8QAAAAJ) since 2019. 
 
+**If you are looking for a highly motivated intern** with a background in computer science and a passion for advancing AI technologies, I would be thrilled to have an opportunity to chat with you!
+
 My research interests broadly lie in the areas of Machine Learning (**ML**), Natural Language Processing (**NLP**), and Large Language Models (**LLM**). 
 More specifically, my recent research interests mainly lie in **Post-training for LLMs**, including: <br>
 **(i) Data Selection** ([Cherry LLM (IFD)](https://arxiv.org/abs/2308.12032), [Superfiltering](https://arxiv.org/abs/2402.00530)); <br>
@@ -29,6 +31,5 @@ More specifically, my recent research interests mainly lie in **Post-training fo
 **(v) Reasoning** ([MiP-Overthinking](https://arxiv.org/abs/2504.06514), [Gradient_Unified](https://arxiv.org/abs/2504.10766)). <br>
 I am also interested in and now exploring **Vision-LLMs** ([TRIG](https://arxiv.org/abs/2504.04974), [ColorBench](https://arxiv.org/abs/2504.10514)), **Agent** ([ATLaS](https://arxiv.org/abs/2503.02197)), and **Reinforcement Learning**. 
 
-**If you are looking for a highly motivated intern** with a background in computer science and a passion for advancing AI technologies, I would be thrilled to have an opportunity to chat with you!
 
 I am really interested in collaboration, feel free to drop me an email for any opportunity!
