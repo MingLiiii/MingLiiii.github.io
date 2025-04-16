@@ -21,12 +21,13 @@ I began my academic journey in computer science with a Bachelor of Science from 
 Besides, I spent 2 years at [Shenzhen Institutes of Advanced Technology, Chinese Academy of Science](http://english.siat.cas.cn/), advised by [Prof. Yu Qiao](https://scholar.google.com/citations?user=gFtI-8QAAAAJ) since 2019. 
 
 My research interests broadly lie in the areas of Machine Learning (**ML**), Natural Language Processing (**NLP**), and Large Language Models (**LLM**). 
-More specifically, my recent research interests mainly lie in **Post-training for LLMs**, including: 
-**(i) Data Selection** ([Cherry LLM (IFD)](https://arxiv.org/abs/2308.12032), [Superfiltering](https://arxiv.org/abs/2402.00530)); 
-**(ii) Data Synthesis** ([Mosaic-IT](https://arxiv.org/abs/2405.13326), [Reflection-Tuning](https://arxiv.org/abs/2310.11716), [Selective Reflection-Tuning](https://arxiv.org/abs/2402.10110), [RuleR](https://arxiv.org/abs/2406.15938)); 
-**(iii) Controllability** ([DEBATunE](https://arxiv.org/abs/2402.10614), [RuleR](https://arxiv.org/abs/2406.15938));
-**(iv) Interpretability** ([Layer_Gradient](https://arxiv.org/abs/2410.23743)).
-I am also interested in and now exploring **Vision-LLMs Finetuning**, **Agent**, **Efficiency**, and **Reasoning**. 
+More specifically, my recent research interests mainly lie in **Post-training for LLMs**, including: <br>
+**(i) Data Selection** ([Cherry LLM (IFD)](https://arxiv.org/abs/2308.12032), [Superfiltering](https://arxiv.org/abs/2402.00530)); <br>
+**(ii) Data Synthesis** ([Mosaic-IT](https://arxiv.org/abs/2405.13326), [Reflection-Tuning](https://arxiv.org/abs/2310.11716), [Selective Reflection-Tuning](https://arxiv.org/abs/2402.10110)); <br>
+**(iii) Controllability** ([DEBATunE](https://arxiv.org/abs/2402.10614), [RuleR](https://arxiv.org/abs/2406.15938)); <br>
+**(iv) Interpretability** ([Layer_Gradient](https://arxiv.org/abs/2410.23743));
+**(v) Reasoning** ([MiP-Overthinking](https://arxiv.org/abs/2504.06514), [Gradient_Unified](https://arxiv.org/abs/2504.10766))
+I am also interested in and now exploring **Vision-LLMs** ([TRIG](https://arxiv.org/abs/2504.04974), [ColorBench](https://arxiv.org/abs/2504.10514)), **Agent** ((ATLaS)[https://arxiv.org/abs/2503.02197]), and **Reinforcement Learning**. 
 
 **If you are looking for a highly motivated intern** with a background in computer science and a passion for advancing AI technologies, I would be thrilled to have an opportunity to chat with you!
 
