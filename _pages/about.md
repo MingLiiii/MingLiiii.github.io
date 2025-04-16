@@ -22,7 +22,7 @@ Besides, I spent 2 years at [Shenzhen Institutes of Advanced Technology, Chinese
 
 **If you are looking for a highly motivated intern** with a background in computer science and a passion for advancing AI technologies, I would be thrilled to have an opportunity to chat with you!
 
-My research interests broadly lie in the areas of Machine Learning (**ML**), Natural Language Processing (**NLP**), and Large Language Models (**LLM**). 
+My research interests broadly lie in the areas of Machine Learning (**ML**), Natural Language Processing (**NLP**), and Large Language Models (**LLM**). <br>
 More specifically, my recent research interests mainly lie in **Post-training for LLMs**, including: <br>
 **(i) Data Selection** ([Cherry LLM (IFD)](https://arxiv.org/abs/2308.12032), [Superfiltering](https://arxiv.org/abs/2402.00530)); <br>
 **(ii) Data Synthesis** ([Mosaic-IT](https://arxiv.org/abs/2405.13326), [Reflection-Tuning](https://arxiv.org/abs/2310.11716), [Selective Reflection-Tuning](https://arxiv.org/abs/2402.10110)); <br>
