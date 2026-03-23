@@ -171,6 +171,8 @@ collections:
       layout: post
     output: true
     permalink: /news/:path/
+  publication_summary:
+    output: false
   projects:
     output: true
     permalink: /projects/:path/

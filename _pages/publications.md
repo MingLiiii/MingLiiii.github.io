@@ -8,22 +8,8 @@ nav_order: 2
 ---
 
 <div class="publications">
-  <div class="publication-summary">
-    <h2>summary</h2>
-    <p>Recent publication cycles at a glance.</p>
-    <ul class="publication-summary-list">
-      <li>ACL 2025: 3 papers</li>
-      <li>NAACL 2025: 2 papers</li>
-      <li>ICLR 2025: 1 paper</li>
-      <li>EMNLP 2024: 2 papers</li>
-      <li>ACL 2024: 3 papers</li>
-      <li>NAACL 2024: 1 paper</li>
-    </ul>
-  </div>
+  {% include publication_summary.liquid %}
 
-<!-- _pages/publications.md -->
-<div class="publications">
-
-{% bibliography %}
+  {% bibliography %}
 
 </div>
