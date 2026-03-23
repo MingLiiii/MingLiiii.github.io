@@ -638,6 +638,34 @@ footer.sticky-bottom {
 .publications {
   margin-top: 2rem;
 
+  .publication-summary {
+    margin-bottom: 2rem;
+    padding: 1rem 1.25rem;
+    border: 1px solid var(--global-divider-color);
+    border-radius: 0.75rem;
+    background: color-mix(in srgb, var(--global-bg-color) 92%, var(--global-theme-color) 8%);
+
+    h2 {
+      margin-top: 0;
+      margin-bottom: 0.75rem;
+      color: var(--global-theme-color);
+    }
+
+    p {
+      margin-bottom: 0.75rem;
+      color: var(--global-text-color-light);
+    }
+
+    .publication-summary-list {
+      margin-bottom: 0;
+      padding-left: 1.25rem;
+      line-height: 1.6;
+      max-height: calc(6 * 1.6em);
+      overflow-y: auto;
+      scrollbar-gutter: stable;
+    }
+  }
+
   h1 {
     color: var(--global-theme-color);
     font-size: 2rem;
