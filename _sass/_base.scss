@@ -639,12 +639,7 @@ footer.sticky-bottom {
   margin-top: 2rem;
 
   .publication-summary {
-    margin-bottom: 2rem;
-    padding-bottom: 0.25rem;
-
-    h2 {
-      margin-bottom: 1rem;
-    }
+    margin-bottom: 1.5rem;
 
     p {
       color: var(--global-text-color-light);
@@ -654,15 +649,29 @@ footer.sticky-bottom {
       scrollbar-gutter: stable;
     }
 
+    table {
+      margin-bottom: 0;
+    }
+
+    tr {
+      line-height: 1.35;
+    }
+
     th {
       width: 25%;
       color: var(--global-text-color-light);
       font-weight: 500;
       white-space: nowrap;
+      font-size: 1.05rem;
+      padding-top: 0.45rem;
+      padding-bottom: 0.45rem;
     }
 
     td {
       color: var(--global-text-color);
+      font-size: 1.05rem;
+      padding-top: 0.45rem;
+      padding-bottom: 0.45rem;
     }
 
     .publication-summary-label {

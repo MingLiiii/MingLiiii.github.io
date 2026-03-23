@@ -1,12 +1,11 @@
 <div class="publication-summary">
   {% assign publication_summary = site.publication_summary | reverse %}
   {% assign publication_summary_size = publication_summary | size %}
-  <h2>summary</h2>
   {% if publication_summary_size > 0 %}
     <div
       class="table-responsive"
       {% if publication_summary_size > 3 %}
-        style="max-height: 6rem"
+        style="max-height: 8.4rem"
       {% endif %}
     >
       <table class="table table-sm table-borderless">
