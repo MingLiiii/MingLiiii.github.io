@@ -10,12 +10,12 @@ nav_order: 2
 <div class="publications">
   {% include publication_summary.liquid %}
 
+  <h2>favorite preprints</h2>
+  {% bibliography --query @*[favorite=true] --group_by none --sort_by eprint --order descending %}
+
   <h2>selected publications</h2>
   <div class="publication-list-scroll">
-    {% bibliography --query @*[selected=true] --group_by none %}
+    {% bibliography --query @*[selected=true] --group_by none --sort_by arxiv --order descending %}
   </div>
-
-  <h2>favorite preprints</h2>
-  {% bibliography --query @*[favorite=true] --group_by none %}
 
 </div>
