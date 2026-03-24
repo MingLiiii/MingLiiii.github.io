@@ -31,4 +31,4 @@ My research mainly focuses on large language models, with interests spanning fou
 (4) **Human-AI Cognitive Alignment**: I study how closely current LLMs align with human cognitive behaviors in reasoning and difficulty perception ([Difficulty Alignment](https://arxiv.org/abs/2512.18880), [Schoenfeld Reasoning](https://arxiv.org/abs/2509.14662), [Item Difficulty Modeling](https://journals.sagepub.com/doi/abs/10.1177/00131644251344973)).
 
 
-I am always happy to discuss research ideas and collaborations. Feel free to reach out by email.
+I am always **happy to discuss research ideas and collaborations**. Feel free to reach out by email.
