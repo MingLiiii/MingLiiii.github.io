@@ -37,6 +37,44 @@ a.btncv:hover {
  * CV TIME_TABLE styles
  *****************************/
 
+.resume-entry {
+  display: flex;
+  align-items: flex-start;
+  gap: 1rem;
+}
+
+.resume-entry-date {
+  flex: 0 0 132px;
+  max-width: 132px;
+}
+
+.resume-entry-content {
+  flex: 1 1 auto;
+  min-width: 0;
+}
+
+.resume-entry-content h6 {
+  margin-left: 0;
+  margin-bottom: 0.5rem;
+}
+
+.resume-date-badge {
+  min-width: 110px;
+  white-space: nowrap;
+}
+
+@media (max-width: 576px) {
+  .resume-entry {
+    flex-direction: column;
+    gap: 0.5rem;
+  }
+
+  .resume-entry-date {
+    flex-basis: auto;
+    max-width: none;
+  }
+}
+
 p.location {
   font-size: 0.7rem;
   white-space: nowrap;
