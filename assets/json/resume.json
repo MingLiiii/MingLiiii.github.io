@@ -15,7 +15,7 @@
       "endDate": "",
       "location": "College Park, USA",
       "courses": [
-        "Advisor: Prof. Tianyi Zhou"
+        "Advisor: Tianyi Zhou"
       ]
     },
     {
@@ -26,7 +26,7 @@
       "endDate": "2023-06-01",
       "location": "College Station, USA",
       "courses": [
-        "Advisor: Prof. Ruihong Huang"
+        "Advisor: Ruihong Huang"
       ]
     },
     {
@@ -46,7 +46,7 @@
       "startDate": "2026-02-01",
       "endDate": "2026-05-01",
       "location": "Abu Dhabi, UAE",
-      "summary": "Visiting researcher in the Abu Dhabi, UAE.",
+      "summary": "Advisor: Tianyi Zhou",
       "highlights": []
     },
     {
@@ -54,8 +54,8 @@
       "position": "Applied Scientist Internship",
       "startDate": "2025-05-01",
       "endDate": "2025-08-01",
-      "location": "Palo Alto, CA, USA",
-      "summary": "Summer internship in California, US.",
+      "location": "Palo Alto, USA",
+      "summary": "Advisor: Pei Chen, Meng Fang, Lihong Li",
       "highlights": []
     },
     {
@@ -63,8 +63,8 @@
       "position": "Research Internship",
       "startDate": "2025-01-01",
       "endDate": "2025-05-01",
-      "location": "USA",
-      "summary": "Spring research internship.",
+      "location": "Remote, USA",
+      "summary": "Advisor: Zhengyuan Yang, Linjie Li",
       "highlights": []
     },
     {
@@ -72,8 +72,8 @@
       "position": "Research Scientist/Engineer Internship",
       "startDate": "2024-05-01",
       "endDate": "2024-08-01",
-      "location": "San Jose, CA, USA",
-      "summary": "Summer internship in California, US.",
+      "location": "San Jose, USA",
+      "summary": "Advisor: Ruiyi Zhang",
       "highlights": []
     },
     {
@@ -82,7 +82,7 @@
       "startDate": "2019-01-01",
       "endDate": "2021-01-01",
       "location": "Shenzhen, China",
-      "summary": "Research experience with Prof. Yu Qiao.",
+      "summary": "Advisor: Yu Qiao",
       "highlights": []
     }
   ]
