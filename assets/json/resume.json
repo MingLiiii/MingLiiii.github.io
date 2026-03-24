@@ -45,6 +45,7 @@
       "position": "Visiting Researcher",
       "startDate": "2026-02-01",
       "endDate": "2026-05-01",
+      "location": "Abu Dhabi, UAE",
       "summary": "Visiting researcher in the Abu Dhabi, UAE.",
       "highlights": []
     },
@@ -53,6 +54,7 @@
       "position": "Applied Scientist Internship",
       "startDate": "2025-05-01",
       "endDate": "2025-08-01",
+      "location": "Palo Alto, CA, USA",
       "summary": "Summer internship in California, US.",
       "highlights": []
     },
@@ -61,6 +63,7 @@
       "position": "Research Internship",
       "startDate": "2025-01-01",
       "endDate": "2025-05-01",
+      "location": "USA",
       "summary": "Spring research internship.",
       "highlights": []
     },
@@ -69,6 +72,7 @@
       "position": "Research Scientist/Engineer Internship",
       "startDate": "2024-05-01",
       "endDate": "2024-08-01",
+      "location": "San Jose, CA, USA",
       "summary": "Summer internship in California, US.",
       "highlights": []
     },
@@ -77,6 +81,7 @@
       "position": "Research Assistant",
       "startDate": "2019-01-01",
       "endDate": "2021-01-01",
+      "location": "Shenzhen, China",
       "summary": "Research experience with Prof. Yu Qiao.",
       "highlights": []
     }
