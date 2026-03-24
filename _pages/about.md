@@ -17,9 +17,12 @@ social: true # includes social icons at the bottom of the page
 ---
 
 I am a **third-year Ph.D. student** in Computer Science at the University of Maryland, advised by [Prof. Tianyi Zhou](https://tianyizhou.github.io/). 
-Over the past few years, I have led multiple research projects, resulting in over 10 **first-author** papers at top-tier venues including ACL, NeurIPS, ICLR, EMNLP, and NAACL. 
-In addition to research, I serve as an **ACL ARR Area Chair** and reviewer for major conferences, and I was honored to receive the **[2026 Apple Scholar in AI/ML Fellowship](https://www.cs.umd.edu/node/27716)**. 
+Over the past few years, I have led multiple research projects, resulting in over 10 **first-author** papers at top-tier venues including *ACL*, *NeurIPS*, *ICLR*, *EMNLP*, and *NAACL*. 
+
+Beyond research, I serve as an **ACL ARR Area Chair** and reviewer for major conferences, and I was honored to receive the **[2026 Apple Scholar in AI/ML Fellowship](https://www.cs.umd.edu/node/27716)**. 
 I have also worked closely with Adobe, Amazon, and Microsoft Research to translate research ideas into real-world AI systems.
+
+### Research interests
 
 My research mainly focuses on large language models, with interests spanning four interconnected areas: *post-training*, *evaluation*, *interpretability*, and *human-AI cognitive alignment*:<br>
 (1) **LLM Post-training**: I study both data-centric approaches, such as data selection and synthesis, and algorithmic approaches for improving model adaptation and reasoning ([Cherry LLM (IFD)](https://arxiv.org/abs/2308.12032), [Superfiltering](https://arxiv.org/abs/2402.00530), [Mosaic-IT](https://arxiv.org/abs/2405.13326), [Selective Reflection-Tuning](https://arxiv.org/abs/2402.10110));<br>
@@ -28,4 +31,4 @@ My research mainly focuses on large language models, with interests spanning fou
 (4) **Human-AI Cognitive Alignment**: I study how closely current LLMs align with human cognitive behaviors in reasoning and difficulty perception ([Difficulty Alignment](https://arxiv.org/abs/2512.18880), [Schoenfeld Reasoning](https://arxiv.org/abs/2509.14662), [Item Difficulty Modeling](https://journals.sagepub.com/doi/abs/10.1177/00131644251344973)).
 
 
-I am really interested in collaboration, feel free to drop me an email for any opportunity!
+I am always happy to discuss research ideas and collaborations. Feel free to reach out by email.
