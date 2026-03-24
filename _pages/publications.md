@@ -10,6 +10,10 @@ nav_order: 2
 <div class="publications">
   {% include publication_summary.liquid %}
 
-  {% bibliography %}
+  <h2>selected publications</h2>
+  {% bibliography --query @*[selected=true] --group_by none %}
+
+  <h2>favorite preprints</h2>
+  {% bibliography --query @*[favorite=true] --group_by none %}
 
 </div>
