@@ -849,6 +849,41 @@ footer.sticky-bottom {
   }
 }
 
+.publication-list {
+  margin-top: 0;
+
+  h2 {
+    border-bottom: 1px solid var(--global-divider-color);
+    color: var(--global-text-color);
+    font-size: 1.5rem;
+    margin-top: 2rem;
+    padding-bottom: 0.35rem;
+  }
+
+  h3 {
+    color: var(--global-text-color);
+    font-size: 1.15rem;
+    font-weight: 600;
+    margin-top: 1.5rem;
+    margin-bottom: 0.75rem;
+  }
+
+  ol {
+    padding-left: 1.35rem;
+  }
+
+  li {
+    line-height: 1.45;
+    margin-bottom: 0.85rem;
+    padding-left: 0.15rem;
+  }
+
+  p {
+    color: var(--global-text-color-light);
+    margin-bottom: 1.25rem;
+  }
+}
+
 // Rouge Color Customization
 figure.highlight {
   margin: 0 0 1rem;
