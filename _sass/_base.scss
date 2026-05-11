@@ -850,6 +850,7 @@ footer.sticky-bottom {
 }
 
 .publication-list {
+  color: #333333;
   margin-top: 0;
 
   h2 {
@@ -868,24 +869,41 @@ footer.sticky-bottom {
     margin-bottom: 0.75rem;
   }
 
-  ol {
+  ol,
+  ul {
     padding-left: 1.35rem;
   }
 
   li {
+    color: #333333;
     line-height: 1.45;
     margin-bottom: 0.85rem;
     padding-left: 0.15rem;
+
+    span,
+    strong {
+      color: inherit;
+    }
   }
 
   .pub-oral {
-    color: #d62728;
-    font-weight: 600;
+    color: #c1121f !important;
+    font-weight: 700;
   }
 
   p {
     color: var(--global-text-color-light);
     margin-bottom: 1.25rem;
+  }
+}
+
+html[data-theme="dark"] {
+  .publication-list {
+    color: var(--global-text-color);
+
+    li {
+      color: var(--global-text-color);
+    }
   }
 }
 
