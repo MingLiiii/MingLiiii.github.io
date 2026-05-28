@@ -19,7 +19,7 @@ social: true # includes social icons at the bottom of the page
 I am a **third-year Ph.D. student** in Computer Science at the University of Maryland, advised by [Prof. Tianyi Zhou](https://tianyizhou.github.io/). 
 Over the past few years, I have led multiple research projects, resulting in over 10 *first-author* papers at top-tier venues including *ACL*, *NeurIPS*, *ICLR*, *EMNLP*, and *NAACL*. 
 
-Beyond research, I serve as an **ACL ARR Area Chair** and reviewer for major conferences, and I was honored to receive the **[2026 Apple Scholar in AI/ML Fellowship](https://machinelearning.apple.com/updates/apple-scholars-aiml-2026)**. 
+Beyond research, I serve as an *ACL ARR Area Chair* and reviewer for major conferences, and I was honored to receive the **[2026 Apple Scholar in AI/ML Fellowship](https://machinelearning.apple.com/updates/apple-scholars-aiml-2026)**. 
 I have also worked closely with Adobe, Amazon, and Microsoft Research to translate research ideas into real-world AI systems.
 
 ### Research interests
