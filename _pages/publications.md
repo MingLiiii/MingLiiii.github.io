@@ -15,7 +15,10 @@ Preprints and an automatically indexed view are also available on my [Google Sch
 
 ### 2026
 
+1. Chenrui Fan, Yijun Liang, Shweta Bhardwaj, Kwesi Cobbina, **Ming Li**, Tianyi Zhou, "V-REX: Benchmarking Exploratory Visual Reasoning via Chain-of-Questions", European Conference on Computer Vision (**ECCV**), 2026. [PDF](https://arxiv.org/pdf/2512.11995), [CODE](https://github.com/tianyi-lab/VREX)
+
 1. Qitong Wang, Yijun Liang, **Ming Li**, Tianyi Zhou, Christopher Rasmussen, "History-Conditioned Spatio-Temporal Visual Token Pruning for Efficient Vision-Language Navigation", 2026 IEEE/RSJ International Conference on Intelligent Robots and Systems (**IROS**), 2026. [PDF](https://arxiv.org/pdf/2603.06480)
+
 
 1. **Ming Li**\*, Xirui Li\*, Tianyi Zhou, "Does Socialization Emerge in AI Agent Society? A Case Study of Moltbook", ACM Conference on AI and Agentic Systems (**CAIS**), 2026. [PDF](https://arxiv.org/pdf/2602.14299), [CODE](https://github.com/tianyi-lab/Moltbook_Socialization)
 
