@@ -21,6 +21,8 @@ Over the past few years, I have led multiple projects on data-centric post-train
 
 Beyond research, I serve as an *ACL ARR Area Chair* and reviewer for major conferences, and I was honored to receive the **[2026 Apple Scholar in AI/ML Fellowship](https://machinelearning.apple.com/updates/apple-scholars-aiml-2026)**. I have also collaborated with Adobe, Amazon, and Microsoft Research on multimodal learning, LLM reasoning, and post-training.
 
+*I expect to graduate in 2027 and am open to research scientist / applied scientist opportunities in industry!*
+
 ### Research interests
 
 My research focuses on large language models, especially reliable post-training, reasoning interpretability, and agentic systems. Across these areas, I study how to train, understand, and evaluate LLMs so that they can reason more reliably, follow instructions more effectively, and interact with environments more robustly.<br>
