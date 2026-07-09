@@ -15,6 +15,8 @@ Preprints and an automatically indexed view are also available on my [Google Sch
 
 ### 2026
 
+1. Xirui Li\*, **Ming Li**\*, Tianyi Zhou, "What does RL improve for Visual Reasoning? A Frankenstein-Style Analysis", Third Conference on Language Modeling (**COLM**), 2026. [PDF](https://arxiv.org/pdf/2602.12395), [CODE](https://github.com/tianyi-lab/Frankenstein)
+
 1. Chenrui Fan, Yijun Liang, Shweta Bhardwaj, Kwesi Cobbina, **Ming Li**, Tianyi Zhou, "V-REX: Benchmarking Exploratory Visual Reasoning via Chain-of-Questions", European Conference on Computer Vision (**ECCV**), 2026. [PDF](https://arxiv.org/pdf/2512.11995), [CODE](https://github.com/tianyi-lab/VREX)
 
 1. Qitong Wang, Yijun Liang, **Ming Li**, Tianyi Zhou, Christopher Rasmussen, "History-Conditioned Spatio-Temporal Visual Token Pruning for Efficient Vision-Language Navigation", 2026 IEEE/RSJ International Conference on Intelligent Robots and Systems (**IROS**), 2026. [PDF](https://arxiv.org/pdf/2603.06480)
@@ -24,7 +26,7 @@ Preprints and an automatically indexed view are also available on my [Google Sch
 
 1. Ruoling Qi, Yirui Liu, Xuaner Wu, Xiangyu Wang, **Ming Li**, Chen Chen, Jian Chen, Yin Chen, Qizhen Weng, "Swift-SVD: Theoretical Optimality Meets Practical Efficiency in Low-Rank LLM Compression", Forty-third International Conference on Machine Learning (**ICML**), 2026. [PDF](https://arxiv.org/pdf/2604.01609)
 
-1. **Ming Li**\*, Chenrui Fan\*, Yize Cheng\*, Soheil Feizi, Tianyi Zhou, "Schoenfeld's Anatomy of Mathematical Reasoning by Language Models", Annual Meeting of the Association for Computational Linguistics (**ACL**) <span class="pub-oral" style="color: #c1121f; font-weight: 700;">Oral</span>, 2026. [PDF](https://arxiv.org/pdf/2512.19995), [CODE](https://github.com/MingLiiii/ThinkARM)
+1. **Ming Li**\*, Chenrui Fan\*, Yize Cheng\*, Soheil Feizi, Tianyi Zhou, "Schoenfeld's Anatomy of Mathematical Reasoning by Language Models", Annual Meeting of the Association for Computational Linguistics (**ACL**) <span class="pub-oral" style="color: #c1121f; font-weight: 700;">Oral</span>, <span class="pub-oral" style="color: #c1121f; font-weight: 700;">SAC Highlight</span>, 2026. [PDF](https://arxiv.org/pdf/2512.19995), [CODE](https://github.com/MingLiiii/ThinkARM)
 
 1. **Ming Li**, Yanhong Li, Ziyue Li, Tianyi Zhou, "How Instruction and Reasoning Data shape Post-Training: Data Quality through the Lens of Layer-wise Gradients", Annual Meeting of the Association for Computational Linguistics (**ACL**), 2026. [PDF](https://arxiv.org/pdf/2504.10766), [CODE](https://github.com/MingLiiii/Gradient_Unified)
 
