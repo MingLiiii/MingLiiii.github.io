@@ -2,7 +2,6 @@
 layout: page
 permalink: /publications/
 title: publications
-description: publication list
 nav: true
 nav_order: 2
 ---
@@ -11,9 +10,11 @@ nav_order: 2
 
 Preprints and an automatically indexed view are also available on my [Google Scholar](https://scholar.google.com/citations?user={{ site.scholar_userid }}) page.
 
-## Conference
+## Publications
 
 ### 2026
+
+1. Guandi Wang, **Ming Li**, Yunsen Xing, Junle Liu, "Deep Multimodal Object Detection via Spatial Mask Interaction and Channel Competition", British Machine Vision Conference (**BMVC**), 2026.
 
 1. Xirui Li\*, **Ming Li**\*, Tianyi Zhou, "What does RL improve for Visual Reasoning? A Frankenstein-Style Analysis", Third Conference on Language Modeling (**COLM**), 2026. [PDF](https://arxiv.org/pdf/2602.12395), [CODE](https://github.com/tianyi-lab/Frankenstein)
 
@@ -68,7 +69,9 @@ Preprints and an automatically indexed view are also available on my [Google Sch
 
 1. Hongyu Zhao, **Ming Li**, Lichao Sun, Tianyi Zhou, "BenTo: Benchmark Reduction with In-Context Transferability", The Thirteenth International Conference on Learning Representations (**ICLR**), 2025. [PDF](https://arxiv.org/pdf/2410.13804.pdf), [CODE](https://github.com/tianyi-lab/bento)
 
-### 2021 - 2024
+1. **Ming Li**, Hong Jiao, Tianyi Zhou, Nan Zhang, Sydney Peters, Robert W. Lissitz, "Item Difficulty Modeling Using Fine-tuned Small and Large Language Models", Educational and Psychological Measurement (**EPM**), 2025. <span class="pub-oral" style="color: #c1121f; font-weight: 700;">Best Research Award of the e-Assessment Awards 2026</span>. [PDF](https://journals.sagepub.com/eprint/IMSVWIWJGKKXMJHTPHID/full), [AWARD](https://www.e-assessment.com/eaa-awards/2026-winners-and-finalists/best-research)
+
+### 2024
 
 1. **Ming Li**, Yong Zhang, Zhitao Li, Jiuhai Chen, Lichang Chen, Ning Cheng, Jianzong Wang, Tianyi Zhou, Jing Xiao, "From Quantity to Quality: Boosting LLM Performance with Self-Guided Data Selection for Instruction Tuning", Annual Conference of the Nations of the Americas Chapter of the Association for Computational Linguistics (**NAACL**), 2024. [PDF](https://arxiv.org/pdf/2308.12032.pdf), [CODE](https://github.com/tianyi-lab/Cherry_LLM)
 
@@ -78,16 +81,16 @@ Preprints and an automatically indexed view are also available on my [Google Sch
 
 1. **Ming Li**, Jiuhai Chen, Lichang Chen, Tianyi Zhou, "Can LLMs Speak For Diverse People? Tuning LLMs via Debate to Generate Controllable Controversial Statements", The 62nd Annual Meeting of the Association for Computational Linguistics (**ACL**) Findings, 2024. [PDF](https://arxiv.org/pdf/2402.10614.pdf), [CODE](https://github.com/tianyi-lab/DEBATunE)
 
+### 2021 - 2023
+
 1. Haoyan Yang, Zhitao Li, Yong Zhang, Jianzong Wang, Ning Cheng, **Ming Li**, Jing Xiao, "PRCA: Fitting Black-Box Large Language Models for Retrieval Question Answering via Pluggable Reward-Driven Contextual Adapter", The 2023 Conference on Empirical Methods in Natural Language Processing (**EMNLP**), 2023. [PDF](https://arxiv.org/pdf/2310.18347)
 
-## Journal
-
-1. **Ming Li**, Hong Jiao, Tianyi Zhou, Nan Zhang, Sydney Peters, Robert W. Lissitz, "Item Difficulty Modeling Using Fine-tuned Small and Large Language Models", Educational and Psychological Measurement (**EPM**), 2025. [PDF](https://journals.sagepub.com/eprint/IMSVWIWJGKKXMJHTPHID/full)
+1. **Ming Li**, Ruihong Huang, "Semi-supervised News Discourse Profiling with Contrastive Learning", The 13th International Joint Conference on Natural Language Processing and the 3rd Conference of the Asia-Pacific Chapter of the Association for Computational Linguistics (**IJCNLP-AACL**), 2023. [PDF](https://arxiv.org/pdf/2309.11692)
 
 1. Qitong Wang, Bin Fu, **Ming Li**, Junjun He, Xi Peng, Yu Qiao, "Region-aware arbitrary-shaped text detection with progressive fusion", IEEE Transactions on Multimedia (**IEEE TMM**), 2022. [PDF](https://ieeexplore.ieee.org/abstract/document/9850390)
 
-1. **Ming Li**, Bin Fu, Han Chen, Junjun He, Yu Qiao, "Dual relation network for scene text recognition", IEEE Transactions on Multimedia (**TMM**), 2022. [PDF](https://ieeexplore.ieee.org/abstract/document/9765383)
+1. **Ming Li**, Bin Fu, Han Chen, Junjun He, Yu Qiao, "Dual relation network for scene text recognition", IEEE Transactions on Multimedia (**IEEE TMM**), 2022. [PDF](https://ieeexplore.ieee.org/abstract/document/9765383)
 
-1. **Ming Li**, Bin Fu, Zhengfu Zhang, Yu Qiao, "Character-aware sampling and rectification for scene text recognition", IEEE Transactions on Multimedia (**TMM**), 2021. [PDF](https://ieeexplore.ieee.org/abstract/document/9623473)
+1. **Ming Li**, Bin Fu, Zhengfu Zhang, Yu Qiao, "Character-aware sampling and rectification for scene text recognition", IEEE Transactions on Multimedia (**IEEE TMM**), 2021. [PDF](https://ieeexplore.ieee.org/abstract/document/9623473)
 
 </div>
