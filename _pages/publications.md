@@ -14,6 +14,8 @@ Preprints and an automatically indexed view are also available on my [Google Sch
 
 ### 2026
 
+1. Zhixun Chen, **Ming Li**, Anjie Liu, Xiaoyuan Zhang, Quanyu Dai, Huangxun Chen, "TurnFlow: Benchmarking User-State Reasoning in Multi-Turn LLM Agents via Scene-Guided User Simulation", The 2026 Conference on Empirical Methods in Natural Language Processing (**EMNLP**) Findings, 2026.
+
 1. Guandi Wang, **Ming Li**, Yunsen Xing, Junle Liu, "Deep Multimodal Object Detection via Spatial Mask Interaction and Channel Competition", British Machine Vision Conference (**BMVC**), 2026.
 
 1. Xirui Li\*, **Ming Li**\*, Tianyi Zhou, "What does RL improve for Visual Reasoning? A Frankenstein-Style Analysis", Third Conference on Language Modeling (**COLM**), 2026. [PDF](https://arxiv.org/pdf/2602.12395), [CODE](https://github.com/tianyi-lab/Frankenstein)
