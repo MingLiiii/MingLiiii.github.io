@@ -22,7 +22,7 @@ I am a **Ph.D. candidate in Computer Science at the University of Maryland**, ad
 
 My research experience includes internships at Amazon, Microsoft Research, and Adobe, and a visiting research appointment at MBZUAI. I also serve as an *ACL ARR Area Chair* and reviewer for major conferences.
 
-**I expect to graduate in Spring 2027 and am seeking Research Scientist / Applied Scientist / Research Engineer roles in industry, with availability as early as March 2027.** [Download my CV]({{ '/assets/pdf/Ming_CV.pdf' | relative_url }}) or [get in touch](mailto:minglii@umd.edu).
+**I expect to graduate in Spring 2027 and am seeking Research Scientist / Applied Scientist / Research Engineer roles in industry.** [Download my CV]({{ '/assets/pdf/Ming_CV.pdf' | relative_url }}) or [get in touch](mailto:minglii@umd.edu).
 
 ### Research
 
