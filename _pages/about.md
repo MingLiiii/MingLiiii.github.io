@@ -18,9 +18,9 @@ social: true # includes social icons at the bottom of the page
 
 I am a **Ph.D. candidate in Computer Science at the University of Maryland**, advised by [Prof. Tianyi Zhou](https://tianyizhou.github.io/). I study how to train LLMs, understand their reasoning and behavior, and rigorously evaluate the capabilities and reliability of models and agentic systems.
 
-**[2026 Apple Scholar in AI/ML](https://machinelearning.apple.com/updates/apple-scholars-aiml-2026)** · **2× ACL Oral** · **ACL’26 SAC Highlight**
-
 My research experience includes internships at Amazon, Microsoft Research, and Adobe, and a visiting research appointment at MBZUAI. I also serve as an *ACL ARR Area Chair* and reviewer for major conferences.
+
+**[2026 Apple Scholar in AI/ML](https://machinelearning.apple.com/updates/apple-scholars-aiml-2026)** · **2× ACL Oral** · **ACL’26 SAC Highlight**
 
 **I expect to graduate in Spring 2027 and am seeking Research Scientist / Applied Scientist / Research Engineer roles in industry.** [Download my CV]({{ '/assets/pdf/Ming_CV.pdf' | relative_url }}) or [get in touch](mailto:minglii@umd.edu).
 
