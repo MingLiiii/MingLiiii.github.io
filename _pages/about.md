@@ -22,7 +22,7 @@ My research experience includes internships at Amazon, Microsoft Research, and A
 
 **[2026 Apple Scholar in AI/ML](https://machinelearning.apple.com/updates/apple-scholars-aiml-2026)** · **2× ACL Oral** · **ACL’26 SAC Highlight**
 
-**I expect to graduate in Spring 2027 and am seeking Research Scientist / Applied Scientist / Research Engineer roles in industry.** [Download my CV]({{ '/assets/pdf/Ming_CV.pdf' | relative_url }}) or [get in touch](mailto:minglii@umd.edu).
+**I am primarily seeking full-time Research Scientist / Applied Scientist / Research Engineer roles in industry.** I expect to graduate in 2027, as early as Spring, and am also open to Summer 2027 research internships with flexible graduation timing. [Download my CV]({{ '/assets/pdf/Ming_CV.pdf' | relative_url }}) or [get in touch](mailto:minglii@umd.edu).
 
 ### Research
 
