@@ -14,22 +14,9 @@ Preprints and an automatically indexed view are also available on my [Google Sch
 
 ### 2026
 
-1. Guandi Wang, **Ming Li**, Yunsen Xing, Junle Liu, "Deep Multimodal Object Detection via Spatial Mask Interaction and Channel Competition", British Machine Vision Conference (**BMVC**), 2026.
-
-1. Xirui Li\*, **Ming Li**\*, Tianyi Zhou, "What does RL improve for Visual Reasoning? A Frankenstein-Style Analysis", Third Conference on Language Modeling (**COLM**), 2026. [PDF](https://arxiv.org/pdf/2602.12395), [CODE](https://github.com/tianyi-lab/Frankenstein)
-
-1. Chenrui Fan, Yijun Liang, Shweta Bhardwaj, Kwesi Cobbina, **Ming Li**, Tianyi Zhou, "V-REX: Benchmarking Exploratory Visual Reasoning via Chain-of-Questions", European Conference on Computer Vision (**ECCV**), 2026. [PDF](https://arxiv.org/pdf/2512.11995), [CODE](https://github.com/tianyi-lab/VREX)
-
-1. Qitong Wang, Yijun Liang, **Ming Li**, Tianyi Zhou, Christopher Rasmussen, "History-Conditioned Spatio-Temporal Visual Token Pruning for Efficient Vision-Language Navigation", 2026 IEEE/RSJ International Conference on Intelligent Robots and Systems (**IROS**), 2026. [PDF](https://arxiv.org/pdf/2603.06480)
-
-
-1. **Ming Li**\*, Xirui Li\*, Tianyi Zhou, "Does Socialization Emerge in AI Agent Society? A Case Study of Moltbook", ACM Conference on AI and Agentic Systems (**CAIS**), 2026. [PDF](https://arxiv.org/pdf/2602.14299), [CODE](https://github.com/tianyi-lab/Moltbook_Socialization)
-
-1. Ruoling Qi, Yirui Liu, Xuaner Wu, Xiangyu Wang, **Ming Li**, Chen Chen, Jian Chen, Yin Chen, Qizhen Weng, "Swift-SVD: Theoretical Optimality Meets Practical Efficiency in Low-Rank LLM Compression", Forty-third International Conference on Machine Learning (**ICML**), 2026. [PDF](https://arxiv.org/pdf/2604.01609)
-
 1. **Ming Li**\*, Chenrui Fan\*, Yize Cheng\*, Soheil Feizi, Tianyi Zhou, "Schoenfeld's Anatomy of Mathematical Reasoning by Language Models", Annual Meeting of the Association for Computational Linguistics (**ACL**) <span class="pub-oral" style="color: #c1121f; font-weight: 700;">Oral</span>, <span class="pub-oral" style="color: #c1121f; font-weight: 700;">SAC Highlight</span>, 2026. [PDF](https://arxiv.org/pdf/2512.19995), [CODE](https://github.com/MingLiiii/ThinkARM)
 
-1. **Ming Li**, Yanhong Li, Ziyue Li, Tianyi Zhou, "How Instruction and Reasoning Data shape Post-Training: Data Quality through the Lens of Layer-wise Gradients", Annual Meeting of the Association for Computational Linguistics (**ACL**), 2026. [PDF](https://arxiv.org/pdf/2504.10766), [CODE](https://github.com/MingLiiii/Gradient_Unified)
+1. **Ming Li**, Yanhong Li, Ziyue Li, Tianyi Zhou, "How Instruction and Reasoning Data shape Post-Training: Data Quality through the Lens of Layer-wise Gradients", Annual Meeting of the Association for Computational Linguistics (**ACL**), **AC-recommended Oral · Top-15% meta-review**, 2026. [PDF](https://arxiv.org/pdf/2504.10766), [CODE](https://github.com/MingLiiii/Gradient_Unified)
 
 1. **Ming Li**, Pei Chen, Zhenhao Zhang, Tao Yang, Xinyang Zhang, Han Li, Tianyu Cao, Ming Zeng, Zhuofeng Wu, Meng Jiang, Huasheng Li, Lihong Li, Bing Yin, "Mitigating Lost in Multi-turn Conversation via Curriculum RL with Verifiable Accuracy and Abstention Rewards", Annual Meeting of the Association for Computational Linguistics (**ACL**), 2026. [PDF](https://arxiv.org/pdf/2510.18731)
 
@@ -37,27 +24,23 @@ Preprints and an automatically indexed view are also available on my [Google Sch
 
 1. Shijie Zhou, Jihyung Kil, **Ming Li**, Jiuxiang Gu, Curtis Wigington, Rajiv Jain, Changyou Chen, Ruiyi Zhang, "Unveiling Inherent Visual Grounding in Multimodal LLMs for Text-Rich Images", Annual Meeting of the Association for Computational Linguistics (**ACL**) Findings, 2026.
 
+1. **Ming Li**\*, Xirui Li\*, Tianyi Zhou, "Does Socialization Emerge in AI Agent Society? A Case Study of Moltbook", ACM Conference on AI and Agentic Systems (**CAIS**), 2026. [PDF](https://arxiv.org/pdf/2602.14299), [CODE](https://github.com/tianyi-lab/Moltbook_Socialization)
+
 1. Yanhong Li, **Ming Li**, Karen Livescu, Jiawei Zhou, "On the Predictive Power of Representation Dispersion in Language Models", The Fourteenth International Conference on Learning Representations (**ICLR**), 2026. [PDF](https://arxiv.org/pdf/2506.24106)
 
 1. Zhuochun Li, Yong Zhang, **Ming Li**, Yuelyu Ji, Yiming Zeng, Ning Cheng, Yun Zhu, Yanmeng Wang, Shaojun Wang, Jing Xiao, Daqing He, "Rethinking LLM-as-a-Judge: Representation-as-a-Judge with Small Language Models via Semantic Capacity Asymmetry", The Fourteenth International Conference on Learning Representations (**ICLR**), 2026. [PDF](https://arxiv.org/pdf/2601.22588)
 
+1. Xirui Li\*, **Ming Li**\*, Tianyi Zhou, "What does RL improve for Visual Reasoning? A Frankenstein-Style Analysis", Third Conference on Language Modeling (**COLM**), 2026. [PDF](https://arxiv.org/pdf/2602.12395), [CODE](https://github.com/tianyi-lab/Frankenstein)
+
+1. Ruoling Qi, Yirui Liu, Xuaner Wu, Xiangyu Wang, **Ming Li**, Chen Chen, Jian Chen, Yin Chen, Qizhen Weng, "Swift-SVD: Theoretical Optimality Meets Practical Efficiency in Low-Rank LLM Compression", Forty-third International Conference on Machine Learning (**ICML**), 2026. [PDF](https://arxiv.org/pdf/2604.01609)
+
+1. Chenrui Fan, Yijun Liang, Shweta Bhardwaj, Kwesi Cobbina, **Ming Li**, Tianyi Zhou, "V-REX: Benchmarking Exploratory Visual Reasoning via Chain-of-Questions", European Conference on Computer Vision (**ECCV**), 2026. [PDF](https://arxiv.org/pdf/2512.11995), [CODE](https://github.com/tianyi-lab/VREX)
+
+1. Guandi Wang, **Ming Li**, Yunsen Xing, Junle Liu, "Deep Multimodal Object Detection via Spatial Mask Interaction and Channel Competition", British Machine Vision Conference (**BMVC**), 2026.
+
+1. Qitong Wang, Yijun Liang, **Ming Li**, Tianyi Zhou, Christopher Rasmussen, "History-Conditioned Spatio-Temporal Visual Token Pruning for Efficient Vision-Language Navigation", 2026 IEEE/RSJ International Conference on Intelligent Robots and Systems (**IROS**), 2026. [PDF](https://arxiv.org/pdf/2603.06480)
+
 ### 2025
-
-1. Yijun Liang\*, **Ming Li**\*, Chenrui Fan, Ziyue Li, Dang Nguyen, Kwesi Adu Cobbina, Shweta Bhardwaj, Jiuhai Chen, Fuxiao Liu, Tianyi Zhou, "ColorBench: Can VLMs See and Understand the Colorful World? A Comprehensive Benchmark for Color Perception, Reasoning, and Robustness", The Thirty-ninth Annual Conference on Neural Information Processing Systems (**NeurIPS**) Datasets and Benchmarks Track, 2025. [PDF](https://arxiv.org/pdf/2504.10514.pdf), [CODE](https://github.com/tianyi-lab/ColorBench)
-
-1. Xiyao Wang, Zhengyuan Yang, Chao Feng, Yongyuan Liang, Yuhang Zhou, Xiaoyu Liu, Ziyi Zang, **Ming Li**, Chung-Ching Lin, Kevin Lin, Linjie Li, Furong Huang, Lijuan Wang, "ViCrit: A Verifiable Reinforcement Learning Proxy Task for Visual Perception in VLMs", The Thirty-ninth Annual Conference on Neural Information Processing Systems (**NeurIPS**), 2025. [PDF](https://arxiv.org/pdf/2506.10128), [CODE](https://github.com/si0wang/ViCrit)
-
-<!-- 1. Sydney Peters, Nan Zhang, Hong Jiao, **Ming Li**, Tianyi Zhou, "Review of Text-Based Approaches to Item Difficulty Modeling in Large-Scale Assessments", Proceedings of the Artificial Intelligence in Measurement and Education Conference (AIME-Con): Coordinated Session Papers, 2025. [PDF](https://aclanthology.org/2025.aimecon-sessions.4.pdf)
-
-1. Yanbin Fu, Hong Jiao, Tianyi Zhou, Nan Zhang, **Ming Li**, Qingshu Xu, Sydney Peters, Robert W. Lissitz, "Text-Based Approaches to Item Alignment to Content Standards in Large-Scale Reading & Writing Tests", Proceedings of the Artificial Intelligence in Measurement and Education Conference (AIME-Con): Coordinated Session Papers, 2025. [PDF](https://aclanthology.org/2025.aimecon-sessions.3.pdf) -->
-
-1. Dawei Li, Yue Huang, **Ming Li**, Tianyi Zhou, Xiangliang Zhang, Huan Liu, "Generative Models for Synthetic Data: Transforming Data Mining in the GenAI Era", The 34th ACM International Conference on Information and Knowledge Management (**CIKM**), 2025. [PDF](https://dl.acm.org/doi/epdf/10.1145/3746252.3761455)
-
-1. **Ming Li**\*, Nan Zhang\*, Chenrui Fan\*, Hong Jiao, Yanbin Fu, Sydney Peters, Qingshu Xu, Robert Lissitz, Tianyi Zhou, "Understanding the Thinking Process of Reasoning Models: A Perspective from Schoenfeld's Episode Theory", The 2025 Conference on Empirical Methods in Natural Language Processing (**EMNLP**), 2025. [PDF](https://arxiv.org/pdf/2509.14662.pdf), [CODE](https://github.com/MingLiiii/Schoenfeld_Reasoning)
-
-1. Yuhang Zhou, Jing Zhu, Shengyi Qian, Zhuokai Zhao, Xiyao Wang, Xiaoyu Liu, **Ming Li**, Paiheng Xu, Wei Ai, Furong Huang, "DISCO Balances the Scales: Adaptive Domain- and Difficulty-Aware Reinforcement Learning on Imbalanced Data", The 2025 Conference on Empirical Methods in Natural Language Processing (**EMNLP**) Findings, 2025. [PDF](https://arxiv.org/pdf/2505.15074), [CODE](https://github.com/Tonyzhou98/disco_grpo)
-
-1. Chenrui Fan\*, **Ming Li**\*, Lichao Sun, Tianyi Zhou, "Missing Premise exacerbates Overthinking: Are Reasoning Models losing Critical Thinking Skill?", Second Conference on Language Modeling (**COLM**), 2025. [PDF](https://arxiv.org/pdf/2504.06514.pdf), [CODE](https://github.com/tianyi-lab/MiP-Overthinking)
 
 1. **Ming Li**, Yanhong Li, Tianyi Zhou, "What Happened in LLMs Layers when Trained for Fast vs. Slow Thinking: A Gradient Perspective", The 63rd Annual Meeting of the Association for Computational Linguistics (**ACL**) <span class="pub-oral" style="color: #c1121f; font-weight: 700;">Oral</span>, 2025. [PDF](https://arxiv.org/pdf/2410.23743.pdf), [CODE](https://github.com/MingLiiii/Layer_Gradient)
 
@@ -65,11 +48,27 @@ Preprints and an automatically indexed view are also available on my [Google Sch
 
 1. Zhixun Chen\*, **Ming Li**\*, Yuxuan Huang, Yali Du, Meng Fang, Tianyi Zhou, "ATLAS: Agent Tuning via Learning Critical Steps", The 63rd Annual Meeting of the Association for Computational Linguistics (**ACL**) Findings, 2025. [PDF](https://arxiv.org/pdf/2503.02197.pdf)
 
+1. **Ming Li**, Hong Jiao, Tianyi Zhou, Nan Zhang, Sydney Peters, Robert W. Lissitz, "Item Difficulty Modeling Using Fine-tuned Small and Large Language Models", Educational and Psychological Measurement (**EPM**), 2025. <span class="pub-oral" style="color: #c1121f; font-weight: 700;">Best Research Award of the e-Assessment Awards 2026</span>. [PDF](https://journals.sagepub.com/eprint/IMSVWIWJGKKXMJHTPHID/full), [AWARD](https://www.e-assessment.com/eaa-awards/2026-winners-and-finalists/best-research)
+
+1. Yijun Liang\*, **Ming Li**\*, Chenrui Fan, Ziyue Li, Dang Nguyen, Kwesi Adu Cobbina, Shweta Bhardwaj, Jiuhai Chen, Fuxiao Liu, Tianyi Zhou, "ColorBench: Can VLMs See and Understand the Colorful World? A Comprehensive Benchmark for Color Perception, Reasoning, and Robustness", The Thirty-ninth Annual Conference on Neural Information Processing Systems (**NeurIPS**) Datasets and Benchmarks Track, 2025. [PDF](https://arxiv.org/pdf/2504.10514.pdf), [CODE](https://github.com/tianyi-lab/ColorBench)
+
+1. Xiyao Wang, Zhengyuan Yang, Chao Feng, Yongyuan Liang, Yuhang Zhou, Xiaoyu Liu, Ziyi Zang, **Ming Li**, Chung-Ching Lin, Kevin Lin, Linjie Li, Furong Huang, Lijuan Wang, "ViCrit: A Verifiable Reinforcement Learning Proxy Task for Visual Perception in VLMs", The Thirty-ninth Annual Conference on Neural Information Processing Systems (**NeurIPS**), 2025. [PDF](https://arxiv.org/pdf/2506.10128), [CODE](https://github.com/si0wang/ViCrit)
+
+1. **Ming Li**\*, Nan Zhang\*, Chenrui Fan\*, Hong Jiao, Yanbin Fu, Sydney Peters, Qingshu Xu, Robert Lissitz, Tianyi Zhou, "Understanding the Thinking Process of Reasoning Models: A Perspective from Schoenfeld's Episode Theory", The 2025 Conference on Empirical Methods in Natural Language Processing (**EMNLP**), 2025. [PDF](https://arxiv.org/pdf/2509.14662.pdf), [CODE](https://github.com/MingLiiii/Schoenfeld_Reasoning)
+
+1. Yuhang Zhou, Jing Zhu, Shengyi Qian, Zhuokai Zhao, Xiyao Wang, Xiaoyu Liu, **Ming Li**, Paiheng Xu, Wei Ai, Furong Huang, "DISCO Balances the Scales: Adaptive Domain- and Difficulty-Aware Reinforcement Learning on Imbalanced Data", The 2025 Conference on Empirical Methods in Natural Language Processing (**EMNLP**) Findings, 2025. [PDF](https://arxiv.org/pdf/2505.15074), [CODE](https://github.com/Tonyzhou98/disco_grpo)
+
+1. Chenrui Fan\*, **Ming Li**\*, Lichao Sun, Tianyi Zhou, "Missing Premise exacerbates Overthinking: Are Reasoning Models losing Critical Thinking Skill?", Second Conference on Language Modeling (**COLM**), 2025. [PDF](https://arxiv.org/pdf/2504.06514.pdf), [CODE](https://github.com/tianyi-lab/MiP-Overthinking)
+
 1. **Ming Li**\*, Han Chen\*, Chenguang Wang\*, Dang Nguyen, Dianqi Li, Tianyi Zhou, "RuleR: Improving LLM Controllability by Rule-based Data Recycling", Annual Conference of the Nations of the Americas Chapter of the Association for Computational Linguistics (**NAACL**), 2025. [PDF](https://arxiv.org/pdf/2406.15938.pdf), [CODE](https://github.com/tianyi-lab/RuleR)
 
 1. Hongyu Zhao, **Ming Li**, Lichao Sun, Tianyi Zhou, "BenTo: Benchmark Reduction with In-Context Transferability", The Thirteenth International Conference on Learning Representations (**ICLR**), 2025. [PDF](https://arxiv.org/pdf/2410.13804.pdf), [CODE](https://github.com/tianyi-lab/bento)
 
-1. **Ming Li**, Hong Jiao, Tianyi Zhou, Nan Zhang, Sydney Peters, Robert W. Lissitz, "Item Difficulty Modeling Using Fine-tuned Small and Large Language Models", Educational and Psychological Measurement (**EPM**), 2025. <span class="pub-oral" style="color: #c1121f; font-weight: 700;">Best Research Award of the e-Assessment Awards 2026</span>. [PDF](https://journals.sagepub.com/eprint/IMSVWIWJGKKXMJHTPHID/full), [AWARD](https://www.e-assessment.com/eaa-awards/2026-winners-and-finalists/best-research)
+1. Dawei Li, Yue Huang, **Ming Li**, Tianyi Zhou, Xiangliang Zhang, Huan Liu, "Generative Models for Synthetic Data: Transforming Data Mining in the GenAI Era", The 34th ACM International Conference on Information and Knowledge Management (**CIKM**), 2025. [PDF](https://dl.acm.org/doi/epdf/10.1145/3746252.3761455)
+
+<!-- 1. Sydney Peters, Nan Zhang, Hong Jiao, **Ming Li**, Tianyi Zhou, "Review of Text-Based Approaches to Item Difficulty Modeling in Large-Scale Assessments", Proceedings of the Artificial Intelligence in Measurement and Education Conference (AIME-Con): Coordinated Session Papers, 2025. [PDF](https://aclanthology.org/2025.aimecon-sessions.4.pdf)
+
+1. Yanbin Fu, Hong Jiao, Tianyi Zhou, Nan Zhang, **Ming Li**, Qingshu Xu, Sydney Peters, Robert W. Lissitz, "Text-Based Approaches to Item Alignment to Content Standards in Large-Scale Reading & Writing Tests", Proceedings of the Artificial Intelligence in Measurement and Education Conference (AIME-Con): Coordinated Session Papers, 2025. [PDF](https://aclanthology.org/2025.aimecon-sessions.3.pdf) -->
 
 ### 2024
 
