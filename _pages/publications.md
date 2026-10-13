@@ -26,6 +26,8 @@ Preprints and an automatically indexed view are also available on my [Google Sch
 
 1. **Ming Li**\*, Xirui Li\*, Tianyi Zhou, "Does Socialization Emerge in AI Agent Society? A Case Study of Moltbook", ACM Conference on AI and Agentic Systems (**CAIS**), 2026. [PDF](https://arxiv.org/pdf/2602.14299), [CODE](https://github.com/tianyi-lab/Moltbook_Socialization)
 
+1. Chenguang Wang\*, **Ming Li**\*, Xinyue Zeng, Zhuochun Li, Hong Jiao, Tianyi Zhou, Dawei Zhou, "Cognitive Episodes in LLM Reasoning Traces Enable Interpretable Human Item Difficulty Prediction", Transactions on Machine Learning Research (**TMLR**), 2026. [PDF](https://arxiv.org/pdf/2606.28186), [CODE](https://github.com/c-steve-wang/Epi2Diff)
+
 1. Yanhong Li, **Ming Li**, Karen Livescu, Jiawei Zhou, "On the Predictive Power of Representation Dispersion in Language Models", The Fourteenth International Conference on Learning Representations (**ICLR**), 2026. [PDF](https://arxiv.org/pdf/2506.24106)
 
 1. Zhuochun Li, Yong Zhang, **Ming Li**, Yuelyu Ji, Yiming Zeng, Ning Cheng, Yun Zhu, Yanmeng Wang, Shaojun Wang, Jing Xiao, Daqing He, "Rethinking LLM-as-a-Judge: Representation-as-a-Judge with Small Language Models via Semantic Capacity Asymmetry", The Fourteenth International Conference on Learning Representations (**ICLR**), 2026. [PDF](https://arxiv.org/pdf/2601.22588)
