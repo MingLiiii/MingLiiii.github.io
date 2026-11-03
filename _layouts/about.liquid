@@ -11,6 +11,9 @@ layout: default
         {{ site.title }}
       {% endif %}
     </h1>
+    {% if page.publishing_as %}
+      <p class="publishing-as">Also publishing as <strong>{{ page.publishing_as }}</strong></p>
+    {% endif %}
     <p class="desc">{{ page.subtitle }}</p>
   </header>
 

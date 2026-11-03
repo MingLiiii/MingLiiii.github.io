@@ -68,6 +68,8 @@ Preprints and an automatically indexed view are also available on my [Google Sch
 
 1. Dawei Li, Yue Huang, **Ming Li**, Tianyi Zhou, Xiangliang Zhang, Huan Liu, "Generative Models for Synthetic Data: Transforming Data Mining in the GenAI Era", The 34th ACM International Conference on Information and Knowledge Management (**CIKM**), 2025. [PDF](https://dl.acm.org/doi/epdf/10.1145/3746252.3761455)
 
+1. Yong Zhang, Bingyuan Zhang, Zhitao Li, **Ming Li**, Ning Cheng, Minchuan Chen, Tao Wei, Jun Ma, Shaojun Wang, Jing Xiao, "Self-Enhanced Reasoning Training: Activating Latent Reasoning in Small Models for Enhanced Reasoning Distillation", 2025 IEEE International Conference on Acoustics, Speech and Signal Processing (**ICASSP**), 2025. [PDF](https://arxiv.org/pdf/2502.12744)
+
 <!-- 1. Sydney Peters, Nan Zhang, Hong Jiao, **Ming Li**, Tianyi Zhou, "Review of Text-Based Approaches to Item Difficulty Modeling in Large-Scale Assessments", Proceedings of the Artificial Intelligence in Measurement and Education Conference (AIME-Con): Coordinated Session Papers, 2025. [PDF](https://aclanthology.org/2025.aimecon-sessions.4.pdf)
 
 1. Yanbin Fu, Hong Jiao, Tianyi Zhou, Nan Zhang, **Ming Li**, Qingshu Xu, Sydney Peters, Robert W. Lissitz, "Text-Based Approaches to Item Alignment to Content Standards in Large-Scale Reading & Writing Tests", Proceedings of the Artificial Intelligence in Measurement and Education Conference (AIME-Con): Coordinated Session Papers, 2025. [PDF](https://aclanthology.org/2025.aimecon-sessions.3.pdf) -->
@@ -82,7 +84,9 @@ Preprints and an automatically indexed view are also available on my [Google Sch
 
 1. **Ming Li**, Jiuhai Chen, Lichang Chen, Tianyi Zhou, "Can LLMs Speak For Diverse People? Tuning LLMs via Debate to Generate Controllable Controversial Statements", The 62nd Annual Meeting of the Association for Computational Linguistics (**ACL**) Findings, 2024. [PDF](https://arxiv.org/pdf/2402.10614.pdf), [CODE](https://github.com/tianyi-lab/DEBATunE)
 
-### 2021 - 2023
+1. Yong Zhang, Hanzhang Li, Zhitao Li, Ning Cheng, **Ming Li**, Jing Xiao, Jianzong Wang, "Leveraging Biases in Large Language Models: ‘bias-kNN’ for Effective Few-Shot Learning", 2024 IEEE International Conference on Acoustics, Speech and Signal Processing (**ICASSP**), 2024. [PDF](https://arxiv.org/pdf/2401.09783)
+
+### 2020 - 2023
 
 1. Haoyan Yang, Zhitao Li, Yong Zhang, Jianzong Wang, Ning Cheng, **Ming Li**, Jing Xiao, "PRCA: Fitting Black-Box Large Language Models for Retrieval Question Answering via Pluggable Reward-Driven Contextual Adapter", The 2023 Conference on Empirical Methods in Natural Language Processing (**EMNLP**), 2023. [PDF](https://arxiv.org/pdf/2310.18347)
 

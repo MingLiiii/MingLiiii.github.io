@@ -3,6 +3,7 @@ layout: about
 title: about
 permalink: /
 subtitle: minglii [AT] umd.edu
+publishing_as: Virgil Ming Li
 
 profile:
   align: right
