@@ -50,11 +50,12 @@ jobs:
         uses: lycheeverse/lychee-action@v1.9.0
         with:
           fail: true
-          # The CV contains Liquid URLs, which are checked after Jekyll renders the site.
+          # Template setup docs are not deployed; the CV's Liquid URLs are checked after Jekyll renders the site.
           # IEEE Xplore returns 418 to automated link checkers even for valid article URLs.
           args: >-
             --exclude-path README.md
             --exclude-path CUSTOMIZE.md
+            --exclude-path INSTALL.md
             --exclude-path _pages/404.md
             --exclude-path _pages/blog.md
             --exclude-path _pages/cv[.]md
